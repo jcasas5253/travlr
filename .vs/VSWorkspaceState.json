@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\travlr-admin",
+    "\\travlr-admin\\models",
+    "\\travlr-admin\\services",
+    "\\travlr-admin\\src",
+    "\\travlr-admin\\src\\app",
+    "\\travlr-admin\\src\\app\\trip-card",
+    "\\travlr-admin\\src\\app\\trip-listing"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\travlr-admin\\src\\app\\trip-listing\\trip-listing.component.ts",
   "PreviewInSolutionExplorer": false
 }
